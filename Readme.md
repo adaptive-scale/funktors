@@ -15,7 +15,7 @@ Currently supports:
 - Sum
 - Every
 
-## Example Use
+## Example
 
 For eg. given an array for strings, filter if the string contain the word "test". With funktors, you can solve it as follows:
 

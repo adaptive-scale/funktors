@@ -1,3 +1,3 @@
 module github.com/adaptive-scale/funktors
 
-go 1.18
+go 1.19

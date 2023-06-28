@@ -21,7 +21,7 @@ For eg. given an array for strings, filter if the string contain the word "test"
 
 ```go
     input := []string{"test123", "123all", "testvalue"}
-	values := Filter(input, func(index int, a string) bool {
+	values := funktors.Filter(input, func(index int, a string) bool {
 		return strings.Contains(a, "test")
 	})
 	log.Println(values)

@@ -41,5 +41,3 @@ Without funktors, it would look something like this:
    }
    log.Println(output)
 ```
-
-Where it gets interesting is, if the filtering logic starts becoming very complex, that code block looks more entangled.
